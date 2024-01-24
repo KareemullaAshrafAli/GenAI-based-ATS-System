@@ -44,11 +44,18 @@ streamlit run App.py
 
 
 
-## Find the screenshots below for the input and output of the ATS application
+## Input and Output of the ATS application
 
-<img src = 'Images/Input.png'>
+Below are the snapshots of the application interface where we give the job description along with the resume.
 
-<img src = 'Images/Output.png'>
+* Given some random job description about a web development job with my resume.
+
+<img src = 'Images/Input.png' style = 'width:75%, height: 65%'>
+
+
+* The final output from the model which shows the match score with the JD and also a profile summary.
+
+<img src = 'Images/Output.png' style = "width:85%, height: 80%">
 
 
 "# GenAI-based-ATS-System" 
