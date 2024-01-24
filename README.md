@@ -11,8 +11,6 @@ The input is simply the job description of the job you apply and your resume.
 * Finally, A paragraph that describes the profile summary.
 
 
-<img src = 'Images/Input.png'> 
-
 
 ## How to setup this project on your pc locally
 
