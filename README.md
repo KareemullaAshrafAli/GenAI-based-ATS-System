@@ -23,18 +23,18 @@ Following are the step-by-step instructions to recreate the same project on your
 2. Create a Google API key from <a href = "https://makersuite.google.com/app/apikey"> here </a> and click on 'Create API key in new project' 
 button. Copy the same and go to the .env file in this project and replace it with your API key.
 
-3. 
+3. Create a virtual environment
 ```bash
 python -m venv myenv 
 ```
 
-4. 
+4. Activate the virtual environment
 ```bash
 myenv\Srcipts\activate 
 ```
 
 
-5.
+5. Install all the requirements
 ```bash
 pip install -r requirements.txt
 ```
