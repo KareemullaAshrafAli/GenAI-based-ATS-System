@@ -12,6 +12,8 @@ The input is simply the job description of the job you apply and your resume.
 
 
 
+
+<br><br>
 ## How to setup this project on your pc locally
 
 Following are the step-by-step instructions to recreate the same project on your pc.
@@ -44,6 +46,9 @@ streamlit run App.py
 
 
 
+
+
+<br><br>
 ## Input and Output of the ATS application
 
 Below are the snapshots of the application interface where we give the job description along with the resume.
