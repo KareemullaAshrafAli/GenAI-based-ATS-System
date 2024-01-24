@@ -57,17 +57,17 @@ Below are the snapshots of the application interface where we give the job descr
 
 * Given some random job description about a web development job with my resume.
 
-<div style = "text-align: center;">
+<div align = 'center'>
 
 <img src = 'Images/Input.png' style = "width:70%; height: 60%;">
 
 </div>
 
-<br>
+<br><br>
 
-* The final output from the model which shows the match score with the JD and also a profile summary.
+* The final output from the model which shows the % match score with the job description and also a profile summary.
 
-<div style = "text-align: center;">
+<div align = 'center'>
 
 <img src = 'Images/Output.png' style = "width:70%; height: 60%;">
 
