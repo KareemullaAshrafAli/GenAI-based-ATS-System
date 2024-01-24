@@ -57,12 +57,14 @@ Below are the snapshots of the application interface where we give the job descr
 
 * Given some random job description about a web development job with my resume.
 
-<img src = 'Images/Input.png' style = 'width:75%, height: 65%'>
-
+<div style = "text-align: center">
+<img src = 'Images/Input.png' style = 'width:75%; height: 65%'>
+</div>
 
 * The final output from the model which shows the match score with the JD and also a profile summary.
 
-<img src = 'Images/Output.png' style = "width:85%, height: 80%">
-
+<div style = "text-align: center">
+<img src = 'Images/Output.png' style = "width:85%; height: 80%;">
+</div>
 
 "# GenAI-based-ATS-System" 
